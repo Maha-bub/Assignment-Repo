@@ -144,6 +144,7 @@ section{
      width: 320;
      height: 420px;
 }
+
 #discount{
      font-size: 70px;
      color: rgba(240, 40, 207, 0.845);
@@ -194,6 +195,23 @@ section{
      justify-content: center;
      
 }
+
+
+/* bonas */
+.hot-deals{
+     width: 1260px;
+     display: flex;
+     gap: 10px;
+     margin: 0 auto;
+     justify-content: space-around;
+
+}
+
+
+
+
+
+
 
 .contac-form{
      width:1260px ;
