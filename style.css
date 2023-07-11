@@ -8,6 +8,7 @@ section{
      width: 1920px;
      height:790px;
      justify-content: space-between ;
+     margin: 0 auto;
 
      
 }
@@ -194,4 +195,79 @@ section{
      
 }
 
+.contac-form{
+     width:1260px ;
+     height:500px ;
+     text-align: center;
+     background-image:url("Flowers/Rectangle\ 9.png");
+     background-repeat: no-repeat;
+     background-position: cover;
+     margin:auto;
+     margin-top: 140px;
+    
+}
+
+.contact-form-title{
+     font-size: 60px;
+     width: 700px;
+     margin:0 auto;
+     font-weight: bold;
+     text-align: center;
+     color:black;
+     padding-top:10%;
+    
+    
+}
+
+.contact-form-disc{
+     font-size: 30px;
+     width: 400px;
+     margin: 0 auto;
+     font-weight: 400px;
+     text-align: center;
+     color: #3e3c3c;
+     padding: 5px;
+}
+
+
+.Email-box{
+     font-size: 30px;
+     margin: 0 auto;
+     padding: 9px;
+     border: none;
+     border-radius: 5px;
+     text-align: center;
+}
+.submit{
+     justify-content: space-between;
+     text-align: center;
+     margin-top:20px;
+     padding: 10px 30px;
+     font-size: 25px;
+     color: white;
+     color: #282828;
+     background-color: red;
+     border-radius: 5px;
+     border:1px white
+
+}
+.footer{
+     margin-top: 120px;
+     padding: 30px;
+     text-align: center;
+     font-size: 25px;
+     background-color: #181818;
+     color:white;
+}
+#footer{
+     color: rgb(222, 25, 97);
+}
+.footer-disc{
+     color: #7a7979;
+     margin-top: 0;
+}
+.footer-title{
+     font-size: 60px;
+     color: white;
+}
 
