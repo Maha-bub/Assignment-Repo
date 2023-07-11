@@ -123,3 +123,44 @@ section{
      text-align: center;
 }
 
+#discount-section{
+     display: flex;
+     background-color: lightblue;
+     align-items: center;
+     justify-content: center;
+     margin-top: 130px;
+     gap:200px;
+     
+}
+
+.colm h3{
+     font-size: 50px;
+     font-weight: bolder;
+     width: 800px;
+     
+}
+.colm-img{
+     width: 320;
+     height: 420px;
+}
+#discount{
+     font-size: 70px;
+     color: rgba(240, 40, 207, 0.845);
+     font-weight: bold;
+}
+.discount-disc{
+     font-size: 25px;
+     font-weight: 500;
+     color: #3e3c3c;
+}
+.btn{
+     margin-top: 30px;
+     padding: 10px 30px;
+     font-size: 25px;
+     color: #282828;
+     background-color: rgba(240, 40, 207, 0.845) ;
+     border-radius: 5px;
+     text-decoration: none;
+
+
+}
