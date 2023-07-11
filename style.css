@@ -164,3 +164,34 @@ section{
 
 
 }
+.details{
+     font-size: 70px;
+     font-weight: 700;
+     font-style: normal;
+     line-height: normal;
+     color: #272727;
+     text-align: center;
+     margin-top: 130px;
+}
+.social-disc{
+     font-size: 35px;
+     width: 850px;
+     height: 200px;
+     font-weight: 400px;
+     color: #3e3c3c;
+     margin-top:20px;
+     margin:0 auto;
+}
+
+.imagees{
+     display: flex;
+     margin: 0 auto;
+     margin-top: 100px;
+     width: 1260px;
+     height: 620px;
+     gap: 30px;
+     justify-content: center;
+     
+}
+
+
