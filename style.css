@@ -51,3 +51,69 @@ a{
      position:bottom right;
      margin-bottom:0px;
 }
+.about-info .about-info-title{
+     font-size: 60px;
+    font-weight: 800;
+    color: #282828;
+}
+.about-info{
+    text-align: center;
+    margin-top: 100px;
+}
+.about-info-disc{
+     font-size: 30px;
+     width: 750px;
+     height: 100px;
+     font-weight: 400px;
+     color: #3e3c3c;
+     margin-top:20px;
+     margin:0 auto;
+}
+.items{
+     display: flex;
+     gap: 30px;
+     justify-content: center;
+     width: 650;
+     height: 700;
+     margin-top: 120px;
+    
+}
+.item{
+     width: 480px;
+     height: 500px;
+     background-color: rgb(221, 236, 169);
+     border-radius: 50%  50% 0 0;
+     position: relative;
+     
+}
+.item1{
+     width: 480px;
+     height: 500px;
+     background-color: rgb(173, 243, 243);
+     border-radius: 50%  50% 0 0;
+     position: relative;
+}
+.item2{
+     margin-top: 0%;
+     width: 480px;
+     height: 500px;
+     background-color: rgb(240, 207, 239);
+     border-radius: 50%  50% 0 0;
+     position: relative;
+
+}
+.image{
+     width:300px ;
+     height:400px;
+     justify-content: center;
+}
+.image1{
+     width:300px ;
+     height:400px;
+     justify-content: center;
+}
+.image2{
+     width:300px ;
+     height:400px;
+     justify-content: center;
+}
