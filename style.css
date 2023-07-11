@@ -1,0 +1,18 @@
+section{
+     padding: 100px 9%;
+}
+.home{
+     background-color:rgba(229, 84, 115, 0.10) ;
+     display: flex;
+     align-items: center;
+     width: 1920px;
+     height: 850px;
+     
+}
+.home.content{
+     max-width: 50rem;
+}
+.home.content h3{
+     font-size:50px;
+     color: #333;
+}
